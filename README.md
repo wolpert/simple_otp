@@ -1,4 +1,13 @@
-# Simple OTP
+# OLD Simple OTP
+
+THIS PROJECT IS REPLACED BY https://github.com/Simple-OTP/simple-otp
+
+I decided to make this a github organization and try to make this 
+not reliant on myself. All new work will be at the above address. I'm 
+leaving this address here for historical purposes.
+
+
+# Original notes below
 
 Now that Authy no longer has a desktop application, planning on creating a way 
 to do this easily from the stored set of secrets.
